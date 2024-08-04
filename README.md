@@ -15,7 +15,7 @@ ParamXploit is a versatile tool designed for various security assessments, inclu
 - Python 3.10 or higher
 - Administrative privileges (for installing system-wide tools)
 
-### Installation Script for Linux
+### Installation on Linux
 
 1. Clone the repository:
 
