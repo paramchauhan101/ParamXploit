@@ -20,5 +20,5 @@ ParamXploit is a versatile tool designed for various security assessments, inclu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ParamXploit.git
+   git clone https://github.com/paramchauhan101/ParamXploit.git
    cd ParamXploit
